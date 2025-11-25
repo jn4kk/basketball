@@ -1,0 +1,184 @@
+{
+  "teams": [
+    {
+      "slug": "los-angeles-lakers",
+      "name": "Los Angeles Lakers",
+      "league": "NBA",
+      "logo": "images/los-angeles-lakers.png",
+      "description": "Eitt af deildum legustu liðum NBA með 17 meistaratitlum.",
+      "legendaryPlayer": {
+        "name": "Kobe Bryant",
+        "position": "Shooting Guard",
+        "career": "1996–2016",
+        "bio": "Kobe Bryant was one of the greatest scorers in basketball history. He won 5 NBA championships with the Lakers."
+      },
+      "currentPlayers": [
+        "LeBron James",
+        "Anthony Davis",
+        "D'Angelo Russell"
+      ]
+    },
+    {
+      "slug": "chicago-bulls",
+      "name": "Chicago Bulls",
+      "league": "NBA",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png",
+      "description": "Goðsögulegt lið frá tímum Michael Jordan.",
+      "legendaryPlayer": {
+        "name": "Michael Jordan",
+        "position": "Shooting Guard",
+        "career": "1984–2003",
+        "bio": "Michael Jordan is widely regarded as the greatest basketball player of all time. He led the Bulls to 6 championships."
+      },
+      "currentPlayers": [
+        "Zach LaVine",
+        "DeMar DeRozan",
+        "Nikola Vučević"
+      ]
+    },
+    {
+      "slug": "boston-celtics",
+      "name": "Boston Celtics",
+      "league": "NBA",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Boston_Celtics_logo.svg/1200px-Boston_Celtics_logo.svg.png",
+      "description": "17 NBA meistaratitlar, metafengi flokki með Lakers.",
+      "legendaryPlayer": {
+        "name": "Larry Bird",
+        "position": "Small Forward",
+        "career": "1979–1992",
+        "bio": "Larry Bird was a prolific scorer and passer who led the Celtics to multiple titles."
+      },
+      "currentPlayers": [
+        "Jayson Tatum",
+        "Jaylen Brown",
+        "Kristaps Porziņģis"
+      ]
+    },
+    {
+      "slug": "golden-state-warriors",
+      "name": "Golden State Warriors",
+      "league": "NBA",
+      "logo": "images/golden-state-warriors.png",
+      "description": "Þekkt fyrir bylting þrjú stiga leik sitt.",
+      "legendaryPlayer": {
+        "name": "Stephen Curry",
+        "position": "Point Guard",
+        "career": "2009–present",
+        "bio": "Stephen Curry revolutionized the game with his shooting range and is a multiple-time NBA champion."
+      },
+      "currentPlayers": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Draymond Green"
+      ]
+    },
+    {
+      "slug": "miami-heat",
+      "name": "Miami Heat",
+      "league": "NBA",
+      "logo": "images/miami-heat.png",
+      "description": "Klassísk austur lið með 3 meistaratitlum.",
+      "legendaryPlayer": {
+        "name": "Dwyane Wade",
+        "position": "Shooting Guard",
+        "career": "2003–2019",
+        "bio": "Dwyane Wade was an elite two-way guard who led the Heat to multiple championships."
+      },
+      "currentPlayers": [
+        "Jimmy Butler",
+        "Bam Adebayo",
+        "Tyler Herro"
+      ]
+    },
+    {
+      "slug": "brooklyn-nets",
+      "name": "Brooklyn Nets",
+      "league": "NBA",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Brooklyn_Nets_logo.svg/1200px-Brooklyn_Nets_logo.svg.png",
+      "description": "Nýja Brooklyn körfubolti lið með stærk menn.",
+      "legendaryPlayer": {
+        "name": "Jason Kidd",
+        "position": "Point Guard",
+        "career": "1994–2013",
+        "bio": "Jason Kidd was a terrific passer and defender who spent time with the Nets as both a player and coach."
+      },
+      "currentPlayers": [
+        "Ben Simmons",
+        "Cam Thomas",
+        "Mikal Bridges"
+      ]
+    },
+    {
+      "slug": "dallas-mavericks",
+      "name": "Dallas Mavericks",
+      "league": "NBA",
+      "logo": "images/dallas-mavericks.png",
+      "description": "Texas körfuboltaliðið með glæsilegt leikstíl.",
+      "legendaryPlayer": {
+        "name": "Dirk Nowitzki",
+        "position": "Power Forward",
+        "career": "1998–2019",
+        "bio": "Dirk Nowitzki is one of the greatest European players ever and the franchise icon of the Mavericks."
+      },
+      "currentPlayers": [
+        "Luka Dončić",
+        "Kyrie Irving",
+        "Tim Hardaway Jr."
+      ]
+    },
+    {
+      "slug": "new-york-knicks",
+      "name": "New York Knicks",
+      "league": "NBA",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
+      "description": "Lið Nýja Jórvíks með ríkri sögu.",
+      "legendaryPlayer": {
+        "name": "Walt Frazier",
+        "position": "Point Guard",
+        "career": "1967–1980",
+        "bio": "Walt Frazier was a smooth defender, playmaker and key player in Knicks' championship teams."
+      },
+      "currentPlayers": [
+        "Jalen Brunson",
+        "Julius Randle",
+        "RJ Barrett"
+      ]
+    },
+    {
+      "slug": "real-madrid",
+      "name": "Real Madrid",
+      "league": "ACB/EuroLeague",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Real_Madrid_Baloncesto_logo.svg/1200px-Real_Madrid_Baloncesto_logo.svg.png",
+      "description": "Evrópsk ofurkraft körfubolta.",
+      "legendaryPlayer": {
+        "name": "Dražen Petrović",
+        "position": "Shooting Guard",
+        "career": "1980–1993",
+        "bio": "Dražen Petrović was a legendary European scorer who later starred in the NBA."
+      },
+      "currentPlayers": [
+        "Sergio Llull",
+        "Rudy Fernández",
+        "Edgaras Ulanovas"
+      ]
+    },
+    {
+      "slug": "fc-barcelona",
+      "name": "FC Barcelona",
+      "league": "ACB/EuroLeague",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28basketball%29_logo.svg/1200px-FC_Barcelona_%28basketball%29_logo.svg.png",
+      "description": "Stendur yfir evrópskum körfubolti.",
+      "legendaryPlayer": {
+        "name": "Juan Carlos Navarro",
+        "position": "Shooting Guard",
+        "career": "1995–2018",
+        "bio": "Juan Carlos Navarro is a Barcelona icon and one of Europe's best shooters."
+      },
+      "currentPlayers": [
+        "Nikola Mirotić",
+        "Sertac Sanli",
+        "Aleix Font"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team - Basketball Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <div class="logo">🏀 Basketball Hub</div>
+        <ul class="nav-menu">
+            <li><a href="index.html" class="nav-link">Heim</a></li>
+            <li><a href="#about" class="nav-link">Um körfubolti</a></li>
+            <li><a href="#rules" class="nav-link">Reglur</a></li>
+            <li><a href="#teams" class="nav-link">Lið</a></li>
+            <li><a href="#contact" class="nav-link">Samband</a></li>
+        </ul>
+    </div>
+</nav>
+
+<main class="container team-page">
+    <section class="team-hero">
+        <img id="team-logo" src="" alt="Team logo" class="team-logo">
+        
+        <h1 id="team-name">Team Name</h1>
+        <p id="team-league" class="team-league">League</p>
+    </section>
+
+    <section class="team-about">
+        <h2>Um liðið</h2>
+        <p id="team-description">Team description...</p>
+    </section>
+
+    <section class="team-legend">
+        <h2>Frægasti leikmaðurinn</h2>
+        <div class="legend-card">
+            <h3 id="legend-name">Legend Name</h3>
+            <p id="legend-position">Position</p>
+            <p id="legend-career">Career</p>
+            <p id="legend-bio">Legend short bio</p>
+        </div>
+    </section>
+
+    <section class="team-current">
+        <h2>Núverandi leikmenn</h2>
+        <ul id="current-players" class="player-list">
+            <!-- List of players populated by JS -->
+        </ul>
+    </section>
+
+    <a href="index.html" class="back-link">← Til baka</a>
+</main>
+
+<script src="team.js"></script>
+</body>
+</html>
