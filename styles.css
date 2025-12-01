@@ -79,20 +79,24 @@ body {
 
 /* Language Switch Button */
 .lang-switch {
-    color: var(--text-light);
+    color: var(--dark-black);
+    background: var(--primary-orange);
     text-decoration: none;
-    padding: 8px 12px;
+    padding: 10px 16px;
     border: 2px solid var(--primary-orange);
     border-radius: 5px;
     font-weight: bold;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     transition: all 0.3s;
     margin-left: 1rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
 }
 
 .lang-switch:hover {
-    background: var(--primary-orange);
-    color: var(--dark-black);
+    background: transparent;
+    color: var(--primary-orange);
 }
 
 .hamburger {
