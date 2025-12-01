@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "michael-jordan",
+    "name": "Michael Jordan",
+    "nickname": "His Airness",
+    "photo": "images/michael-jordan.png",
+    "position": "Shooting Guard",
+    "birthDate": "February 17, 1963",
+    "birthPlace": "Brooklyn, New York",
+    "height": "6'6\" (198 cm)",
+    "teams": ["Chicago Bulls (1984-1993, 1995-1998)", "Washington Wizards (2001-2003)"],
+    "championships": 6,
+    "mvpAwards": 5,
+    "allStarSelections": 14,
+    "careerPoints": 32292,
+    "bio": "Michael Jordan is widely considered the greatest basketball player of all time. He led the Chicago Bulls to 6 NBA championships and won 5 MVP awards. Jordan was known for his incredible skills, competitive spirit, and clutch performances. He transformed basketball and became a global icon.",
+    "achievements": [
+      "6x NBA Champion",
+      "6x NBA Finals MVP",
+      "5x NBA MVP",
+      "14x NBA All-Star",
+      "10x NBA Scoring Champion",
+      "Defensive Player of the Year 1988"
+    ]
+  },
+  {
+    "slug": "kobe-bryant",
+    "name": "Kobe Bryant",
+    "nickname": "Black Mamba",
+    "photo": "images/kobe-bryant.png",
+    "position": "Shooting Guard",
+    "birthDate": "August 23, 1978",
+    "birthPlace": "Philadelphia, Pennsylvania",
+    "height": "6'6\" (198 cm)",
+    "teams": ["Los Angeles Lakers (1996-2016)"],
+    "championships": 5,
+    "mvpAwards": 1,
+    "allStarSelections": 18,
+    "careerPoints": 33643,
+    "bio": "Kobe Bryant was one of the greatest players in NBA history. He spent his entire career with the Los Angeles Lakers and won 5 championships. Kobe was known for his work ethic, skill, and 'Mamba Mentality'. He passed away in a helicopter crash in 2020, leaving behind an unforgettable legacy.",
+    "achievements": [
+      "5x NBA Champion",
+      "2x NBA Finals MVP",
+      "1x NBA MVP",
+      "18x NBA All-Star",
+      "81 points in a single game (2nd highest in NBA history)",
+      "2x Olympic Gold Medalist"
+    ]
+  },
+  {
+    "slug": "lebron-james",
+    "name": "LeBron James",
+    "nickname": "King James",
+    "photo": "images/lebron-james.png",
+    "position": "Small Forward",
+    "birthDate": "December 30, 1984",
+    "birthPlace": "Akron, Ohio",
+    "height": "6'9\" (206 cm)",
+    "teams": ["Cleveland Cavaliers (2003-2010, 2014-2018)", "Miami Heat (2010-2014)", "Los Angeles Lakers (2018-present)"],
+    "championships": 4,
+    "mvpAwards": 4,
+    "allStarSelections": 20,
+    "careerPoints": 40474,
+    "bio": "LeBron James is one of the greatest players of all time and the current all-time leading scorer in NBA history. He has won 4 championships with three different teams. LeBron is known for his versatility, leadership, and longevity at the highest level.",
+    "achievements": [
+      "4x NBA Champion",
+      "4x NBA Finals MVP",
+      "4x NBA MVP",
+      "20x NBA All-Star",
+      "NBA All-Time Leading Scorer",
+      "2x Olympic Gold Medalist"
+    ]
+  },
+  {
+    "slug": "shaquille-oneal",
+    "name": "Shaquille O'Neal",
+    "nickname": "Shaq",
+    "photo": "images/shaquille-oneal.png",
+    "position": "Center",
+    "birthDate": "March 6, 1972",
+    "birthPlace": "Newark, New Jersey",
+    "height": "7'1\" (216 cm)",
+    "teams": ["Orlando Magic (1992-1996)", "Los Angeles Lakers (1996-2004)", "Miami Heat (2004-2008)", "Phoenix Suns, Cleveland Cavaliers, Boston Celtics"],
+    "championships": 4,
+    "mvpAwards": 1,
+    "allStarSelections": 15,
+    "careerPoints": 28596,
+    "bio": "Shaquille O'Neal was one of the most dominant centers in NBA history. Standing 7'1\" and weighing over 300 pounds, he was nearly impossible to stop. Shaq won 4 championships and was known for his powerful playing style and entertaining personality.",
+    "achievements": [
+      "4x NBA Champion",
+      "3x NBA Finals MVP",
+      "1x NBA MVP",
+      "15x NBA All-Star",
+      "Rookie of the Year 1993",
+      "Olympic Gold Medalist 1996"
+    ]
+  }
+]

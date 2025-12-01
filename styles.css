@@ -77,6 +77,24 @@ body {
     text-decoration: underline;
 }
 
+/* Language Switch Button */
+.lang-switch {
+    color: var(--text-light);
+    text-decoration: none;
+    padding: 8px 12px;
+    border: 2px solid var(--primary-orange);
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+    margin-left: 1rem;
+}
+
+.lang-switch:hover {
+    background: var(--primary-orange);
+    color: var(--dark-black);
+}
+
 .hamburger {
     display: none;
     flex-direction: column;

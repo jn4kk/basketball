@@ -1,40 +1,40 @@
 <!DOCTYPE html>
-<html lang="is">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Team - Basketball Hub</title>
-    <link rel="stylesheet" href="styles.css?v=4">
+    <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
 <nav class="navbar">
     <div class="nav-container">
         <div class="logo">🏀 Basketball Hub</div>
         <ul class="nav-menu">
-            <li><a href="index.html" class="nav-link">Heim</a></li>
-            <li><a href="#about" class="nav-link">Um körfubolti</a></li>
-            <li><a href="#rules" class="nav-link">Reglur</a></li>
-            <li><a href="#teams" class="nav-link">Lið</a></li>
-            <li><a href="#contact" class="nav-link">Samband</a></li>
+            <li><a href="index_en.html" class="nav-link">Home</a></li>
+            <li><a href="index_en.html#about" class="nav-link">About</a></li>
+            <li><a href="index_en.html#rules" class="nav-link">Rules</a></li>
+            <li><a href="index_en.html#teams" class="nav-link">Teams</a></li>
+            <li><a href="index_en.html#legends" class="nav-link">Legends</a></li>
         </ul>
+        <a href="team.html" class="lang-switch" title="Íslenska">🇮🇸 IS</a>
     </div>
 </nav>
 
 <main class="container team-page">
     <section class="team-hero">
         <img id="team-logo" src="" alt="Team logo" class="team-logo">
-        
         <h1 id="team-name">Team Name</h1>
         <p id="team-league" class="team-league">League</p>
     </section>
 
     <section class="team-about">
-        <h2>Um liðið</h2>
+        <h2>About the Team</h2>
         <p id="team-description">Team description...</p>
     </section>
 
     <section class="team-legend">
-        <h2>Frægasti leikmaðurinn</h2>
+        <h2>Legendary Player</h2>
         <div class="legend-card">
             <h3 id="legend-name">Legend Name</h3>
             <p id="legend-position">Position</p>
@@ -44,13 +44,13 @@
     </section>
 
     <section class="team-current">
-        <h2>Núverandi leikmenn</h2>
+        <h2>Current Players</h2>
         <ul id="current-players" class="player-list">
             <!-- List of players populated by JS -->
         </ul>
     </section>
 
-    <a href="index.html" class="back-link">← Til baka</a>
+    <a href="index_en.html#teams" class="back-link">← Back</a>
 </main>
 
 <script src="team.js"></script>
