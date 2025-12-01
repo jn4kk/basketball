@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "michael-jordan",
+    "name": "Michael Jordan",
+    "nickname": "His Airness",
+    "photo": "images/michael-jordan.png",
+    "position": "Shooting Guard",
+    "birthDate": "17. febrúar 1963",
+    "birthPlace": "Brooklyn, New York",
+    "height": "198 cm",
+    "teams": ["Chicago Bulls (1984-1993, 1995-1998)", "Washington Wizards (2001-2003)"],
+    "championships": 6,
+    "mvpAwards": 5,
+    "allStarSelections": 14,
+    "careerPoints": 32292,
+    "bio": "Michael Jordan er talinn besti körfuboltaleikmaður allra tíma. Hann leiddi Chicago Bulls til 6 NBA meistaratitla og vann 5 MVP verðlaun. Jordan var þekktur fyrir ótrúlega hæfni sína, samkeppnisanda og sigurgráðugu. Hann breytti körfuboltanum og varð alþjóðlegt tákn.",
+    "achievements": [
+      "6x NBA meistari",
+      "6x NBA Finals MVP",
+      "5x NBA MVP",
+      "14x NBA All-Star",
+      "10x NBA stigahámarks leiðtogi",
+      "Defensive Player of the Year 1988"
+    ]
+  },
+  {
+    "slug": "kobe-bryant",
+    "name": "Kobe Bryant",
+    "nickname": "Black Mamba",
+    "photo": "images/kobe-bryant.png",
+    "position": "Shooting Guard",
+    "birthDate": "23. ágúst 1978",
+    "birthPlace": "Philadelphia, Pennsylvania",
+    "height": "198 cm",
+    "teams": ["Los Angeles Lakers (1996-2016)"],
+    "championships": 5,
+    "mvpAwards": 1,
+    "allStarSelections": 18,
+    "careerPoints": 33643,
+    "bio": "Kobe Bryant var einn af bestu leikmönnum í NBA sögunni. Hann eyddi öllu ferli sínu hjá Los Angeles Lakers og vann 5 meistaratitla. Kobe var þekktur fyrir vinnusemi sína, tækni og 'Mamba Mentality'. Hann lést í þyrluslys 2020 og skildi eftir sig ógleymanlegt arfleifð.",
+    "achievements": [
+      "5x NBA meistari",
+      "2x NBA Finals MVP",
+      "1x NBA MVP",
+      "18x NBA All-Star",
+      "81 stig í einum leik (2. besta í NBA sögu)",
+      "2x Olympic gullverðlaun"
+    ]
+  },
+  {
+    "slug": "lebron-james",
+    "name": "LeBron James",
+    "nickname": "King James",
+    "photo": "images/lebron-james.png",
+    "position": "Small Forward",
+    "birthDate": "30. desember 1984",
+    "birthPlace": "Akron, Ohio",
+    "height": "206 cm",
+    "teams": ["Cleveland Cavaliers (2003-2010, 2014-2018)", "Miami Heat (2010-2014)", "Los Angeles Lakers (2018-núverandi)"],
+    "championships": 4,
+    "mvpAwards": 4,
+    "allStarSelections": 20,
+    "careerPoints": 40474,
+    "bio": "LeBron James er einn af bestu leikmönnum allra tíma og núverandi stigahæsti leikmaður í NBA sögunni. Hann hefur unnið 4 meistaratitla með þremur mismunandi liðum. LeBron er þekktur fyrir fjölhæfni sína, leiðtogahæfni og langlífi á æðsta stigi.",
+    "achievements": [
+      "4x NBA meistari",
+      "4x NBA Finals MVP",
+      "4x NBA MVP",
+      "20x NBA All-Star",
+      "All-time leading scorer í NBA",
+      "2x Olympic gullverðlaun"
+    ]
+  },
+  {
+    "slug": "shaquille-oneal",
+    "name": "Shaquille O'Neal",
+    "nickname": "Shaq",
+    "photo": "images/shaquille-oneal.png",
+    "position": "Center",
+    "birthDate": "6. mars 1972",
+    "birthPlace": "Newark, New Jersey",
+    "height": "216 cm",
+    "teams": ["Orlando Magic (1992-1996)", "Los Angeles Lakers (1996-2004)", "Miami Heat (2004-2008)", "Phoenix Suns, Cleveland Cavaliers, Boston Celtics"],
+    "championships": 4,
+    "mvpAwards": 1,
+    "allStarSelections": 15,
+    "careerPoints": 28596,
+    "bio": "Shaquille O'Neal var einn af ráðandi miðjum í NBA sögunni. Með 216 cm hæð og yfir 140 kg þunga var hann nánast ómögulegur að stöðva. Shaq vann 4 meistaratitla og var þekktur fyrir kraftmikinn leikstíl og skemmtilega persónuleika.",
+    "achievements": [
+      "4x NBA meistari",
+      "3x NBA Finals MVP",
+      "1x NBA MVP",
+      "15x NBA All-Star",
+      "Rookie of the Year 1993",
+      "Olympic gullverðlaun 1996"
+    ]
+  }
+]
