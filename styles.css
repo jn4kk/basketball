@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 :root {
@@ -113,20 +114,24 @@ body {
 
 /* Theme toggle button */
 .theme-toggle {
-    background: transparent;
-    color: var(--text-light);
-    border: 2px solid transparent;
-    padding: 8px 12px;
+    background: var(--primary-orange);
+    color: var(--dark-black);
+    border: 2px solid var(--primary-orange);
+    padding: 10px 14px;
     border-radius: 6px;
-    font-size: 1rem;
+    font-size: 1.1rem;
     cursor: pointer;
     transition: background 0.25s, transform 0.15s;
     margin-left: 0.5rem;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .theme-toggle:hover {
-    transform: translateY(-2px);
-    background: rgba(255, 107, 0, 0.08);
+    transform: scale(1.08);
+    background: var(--secondary-orange);
 }
 
 .hamburger {
