@@ -619,6 +619,15 @@ body {
     box-shadow: 0 15px 40px rgba(255, 107, 0, 0.3);
 }
 
+.award-image {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: 0 auto 1rem;
+    display: block;
+    border-radius: 8px;
+}
+
 .award-icon {
     font-size: 3rem;
     margin-bottom: 1rem;
@@ -681,6 +690,14 @@ body {
     transform: translateY(-10px);
     box-shadow: 0 15px 40px rgba(255, 107, 0, 0.3);
     border-color: var(--primary-orange);
+}
+
+.game-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
 }
 
 .game-date {

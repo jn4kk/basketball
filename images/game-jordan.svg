@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#0a0a0a"/>
+  <rect x="10" y="10" width="130" height="180" fill="#1a1a1a" rx="5"/>
+  <rect x="160" y="10" width="130" height="180" fill="#1a1a1a" rx="5"/>
+  <text x="75" y="110" font-size="60" text-anchor="middle" dominant-baseline="middle" fill="white">🐐</text>
+  <text x="225" y="110" font-size="60" text-anchor="middle" dominant-baseline="middle" fill="white">📍</text>
+  <text x="150" y="190" font-size="14" text-anchor="middle" fill="#FF6B00" font-weight="bold">1998 Finals Game 6</text>
+</svg>
