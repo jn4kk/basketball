@@ -106,3 +106,27 @@ document.querySelectorAll('.about-card, .rule-item, .team-card').forEach(element
     element.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
     observer.observe(element);
 });
+
+/* Theme toggle: remember preference in localStorage and respect system preference */
+const themeToggle = document.getElementById('themeToggle');
+function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    if (themeToggle) themeToggle.textContent = theme === 'dark' ? '🌙' : '☀️';
+}
+
+const storedTheme = localStorage.getItem('theme');
+if (storedTheme) {
+    applyTheme(storedTheme);
+} else {
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    applyTheme(prefersDark ? 'dark' : 'light');
+}
+
+if (themeToggle) {
+    themeToggle.addEventListener('click', () => {
+        const current = document.documentElement.getAttribute('data-theme') || 'dark';
+        const next = current === 'dark' ? 'light' : 'dark';
+        applyTheme(next);
+        localStorage.setItem('theme', next);
+    });
+}
